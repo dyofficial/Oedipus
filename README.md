@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>THE OEDIPUS REX</title>
+<title>THE STORY OF OEDIPUS REX</title>
 <style>
 	body {background-color: grey;}
 	h1 {color: white;
-		text-align: center;}
+		text-align: left;}
 </style>
 <body>
 <style>
