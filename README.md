@@ -55,3 +55,5 @@ p.paragraph03 {
 </p>
 <p>
 	The play concludes with the death of Oedipus in a suburb of Athens, to which he had wandered. His passing occurs <q>without pain </q> &#8212 it was <q>more than mortal, a miracle</q> (<i>Classical Mythology</i> by Mark P. O. Morford and Robert J. Lenardon. 6th ed. White Plains, NY: Longman Publishers, 1998. p. 307). With those words Sophocles clearly marks Oedipus as a hero, a mortal singled out by the gods and who, as an object of worship, achieved no small measure of immortality.
+	</p>
+	
